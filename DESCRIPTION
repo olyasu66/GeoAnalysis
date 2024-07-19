@@ -1,0 +1,11 @@
+Package: GeoAnalysis
+Type: Package
+Title: Geospatial Data Tools
+Version: 0.1.0
+Author: Olga Subbotina
+Maintainer: Olga Subbotina <Olga.Subbotina@campus>
+Description: Provides utility functions for handling geospatial data, 
+        including calculating distances between points and converting coordinate units.
+License: MIT
+Encoding: UTF-8
+LazyData: true
